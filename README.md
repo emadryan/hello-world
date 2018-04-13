@@ -1,2 +1,3 @@
 # hello-world
-first attempt with Git-hub
+Hi humans.
+This is Ryan's father and I love K8
